@@ -1,0 +1,14 @@
+D:\Developer_Hub\GitHub\LeetCode\Easy\1. Two Sum\C#\bin\Debug\net8.0\C#.exe
+D:\Developer_Hub\GitHub\LeetCode\Easy\1. Two Sum\C#\bin\Debug\net8.0\C#.deps.json
+D:\Developer_Hub\GitHub\LeetCode\Easy\1. Two Sum\C#\bin\Debug\net8.0\C#.runtimeconfig.json
+D:\Developer_Hub\GitHub\LeetCode\Easy\1. Two Sum\C#\bin\Debug\net8.0\C#.dll
+D:\Developer_Hub\GitHub\LeetCode\Easy\1. Two Sum\C#\bin\Debug\net8.0\C#.pdb
+D:\Developer_Hub\GitHub\LeetCode\Easy\1. Two Sum\C#\obj\Debug\net8.0\C#.GeneratedMSBuildEditorConfig.editorconfig
+D:\Developer_Hub\GitHub\LeetCode\Easy\1. Two Sum\C#\obj\Debug\net8.0\C#.AssemblyInfoInputs.cache
+D:\Developer_Hub\GitHub\LeetCode\Easy\1. Two Sum\C#\obj\Debug\net8.0\C#.AssemblyInfo.cs
+D:\Developer_Hub\GitHub\LeetCode\Easy\1. Two Sum\C#\obj\Debug\net8.0\C#.csproj.CoreCompileInputs.cache
+D:\Developer_Hub\GitHub\LeetCode\Easy\1. Two Sum\C#\obj\Debug\net8.0\C#.dll
+D:\Developer_Hub\GitHub\LeetCode\Easy\1. Two Sum\C#\obj\Debug\net8.0\refint\C#.dll
+D:\Developer_Hub\GitHub\LeetCode\Easy\1. Two Sum\C#\obj\Debug\net8.0\C#.pdb
+D:\Developer_Hub\GitHub\LeetCode\Easy\1. Two Sum\C#\obj\Debug\net8.0\C#.genruntimeconfig.cache
+D:\Developer_Hub\GitHub\LeetCode\Easy\1. Two Sum\C#\obj\Debug\net8.0\ref\C#.dll
